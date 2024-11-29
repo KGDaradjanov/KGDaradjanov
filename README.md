@@ -1,6 +1,7 @@
-# Hi :wave:, my name is Kristiyan Daradjanov
+<h1 align="center"> Hi there 👋, I'm Kristiyan. </h1>
 
 **`Digital Craftsman (Developer/Programmer)`**
+
 <hr>
 
 ## Personal Stuff:
@@ -32,7 +33,7 @@ Reach me: KGDaradjanov23@codingburgas.bg
   <summary><b>Github Stats</b></summary>
 
   <br>
-
+  
 [![Grade](https://github-readme-stats.vercel.app/api?username=KGDaradjanov&theme=tokyonight)](https://github.com/KGDaradjanov/github-readme-stats)
   
   <hr>
